@@ -1,0 +1,75 @@
+body {
+  background: #ffbad9;
+  background-color: #c2ecf9;
+  background-image: url(pink-background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+  text-align: center;
+}
+p {
+  color: #000000;
+  text-align: center
+}
+h1 {
+  font-weight: bold;
+  color: #000000;
+}
+h3 {
+  color: #000000;
+  text-align: center
+}
+li {
+  color: #000000;
+}
+h4 {
+  color: #000000;
+}
+img { 
+  height: 200px;
+  float:right;
+  
+}
+h5 {
+  color: #000000;
+  text-align: right
+}
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+background-color: rgb(241, 178, 194);
+display: flex;
+justify-content: center;
+}
+ul li a {
+  display: block;
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none
+}
+ul li a:hover {
+  background-color: #efa1c4
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
