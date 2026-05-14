@@ -1,0 +1,50 @@
+body {
+  background-color: #c2ecf9;
+  background-image: url(background.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+  text-align: center;
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+  font-family: cursive;
+}
+.Chocolate-chip-cookies {
+  border-style: dotted;
+  border-color:#239cc5;
+  border-width: medium;
+  background-color:rgba(255, 255, 255, 0.13);
+  color:#0b0000;
+  font-family: cursive;
+  letter-spacing: 1px;
+  padding: 5px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #6bc9e9;
+  display: flex;
+  justify-content: center;
+}
+ul li a {
+  display: block;
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+ul li a:hover {
+  background-color: #4db3ca;
+}
+  
+  
+  
+  
+  
+  
+  
+  
