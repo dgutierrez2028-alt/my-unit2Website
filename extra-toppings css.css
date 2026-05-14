@@ -1,0 +1,44 @@
+body {
+  background: white;
+  background: #ffbad9;
+  background-color: #c2ecf9;
+  background-image: url(yellow-polka-dot-background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+  text-align: center;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #eeee43;
+  display: flex;
+  justify-content: center;
+}
+ul li a{
+  display: block;
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+ul li a:hover {
+  background-color: #d4d44c
+}
+
+
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+}
+h4 {
+  text-align: center
+}
+img {
+  height: 200px;
+  width: 200px;   
+   
+
+   
